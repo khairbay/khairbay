@@ -8,9 +8,9 @@ I'm currently studying Computer Science at Nazarbayev University. I'm passionate
 ---
 
 ### 🛠️ Languages and Tools
-* **Languages:** Python, JavaScript, C++
+* **Languages:** Python, C++
 * **Frontend:** React, HTML/CSS, Tailwind
-* **Backend:** Node.js, Django, PostgreSQL, FastAPI, Flask
+* **Backend:** Django, PostgreSQL, FastAPI, Flask
 * **Tools:** Git, GitHub, VS Code
 
 ⭐️ *Thanks for visiting!*
